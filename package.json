@@ -69,7 +69,7 @@
     "jest": "^23.6.0",
     "jest-cli": "^23.6.0",
     "jest-enzyme": "^7.0.1",
-    "node-sass": "^4.9.4",
+    "node-sass": "^9.0.0",
     "nodemon": "^1.18.5",
     "react-addons-test-utils": "^15.6.2",
     "sass-loader": "^7.1.0",
